@@ -1,12 +1,44 @@
-# React + Vite
+# 🛒 Green-Cart
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Green-Cart** is a sleek, responsive web application for online grocery shopping, designed with eco-conscious users in mind. It offers a user-friendly interface, seamless cart experience, and fast performance.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## Expanding the ESLint configuration
+🔗 [Visit Green-Cart Now](https://reliable-truffle-753db1.netlify.app/)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Preview
+
+> *(Add a real screenshot later if needed)*
+
+![Green-Cart Preview](https://via.placeholder.com/1000x500.png?text=Green-Cart+Live+Preview)
+
+---
+
+## ✨ Features
+
+- 🛍️ Add and remove items from cart
+- 🧾 Product listings with prices
+- 📱 Fully responsive design (mobile-friendly)
+- ⚡ Fast load time (Netlify hosted)
+- 🔒 Clean, minimal UI/UX
+
+---
+
+## 🧰 Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Version Control:** Git + GitHub
+- **Deployment:** Netlify
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/pmpatel14/Green-Cart.git
+   cd Green-Cart
