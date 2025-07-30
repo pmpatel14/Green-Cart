@@ -10,9 +10,7 @@
 
 ---
 
-## 📸 Preview
 
-> *(Add a real screenshot later if needed)*
 
 ![Green-Cart Preview](https://via.placeholder.com/1000x500.png?text=Green-Cart+Live+Preview)
 
